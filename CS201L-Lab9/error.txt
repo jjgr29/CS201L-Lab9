@@ -1,0 +1,1 @@
+Transaction Type is Invalid:            ACCT #,TYPE,FIRST NAME,LAST NAME,DATE,TYPE,AMOUNT
